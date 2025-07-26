@@ -33,3 +33,12 @@ tr:nth-child(odd) td {
 caption {
   padding: 10px;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  margin-top: 50px;
+}
